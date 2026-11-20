@@ -1,0 +1,16 @@
+deployment_date,location_name,item_name,fixture_family,size,reset_lead,priority,readiness_status
+2026-04-15,STORE-01,Endcap Base Deck,Endcap,1,Reset Lead A,Standard,Needs Restock
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,1,Reset Lead A,Standard,Ready
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,2,Reset Lead A,Standard,Ready
+2026-04-15,STORE-02,Gondola Header Sign,Gondola,1,Reset Lead B,Standard,Inspection Pending
+2026-04-15,STORE-02,Gondola Shelf Set,Gondola,1,Reset Lead B,Standard,Ready
+2026-04-16,STORE-03,Checkout Impulse Rack,Checkout,1,Reset Lead C,Standard,Ready
+2026-04-16,STORE-04,Seasonal Display Tower,Seasonal,1,Reset Lead D,Priority,Ready
+2026-04-17,STORE-05,Pallet Skirt 40in,Pallet,1,Reset Lead E,Rush,Ready
+2026-04-17,STORE-06,Endcap Header Panel,Endcap,1,Reset Lead F,Standard,No Source Assigned
+2026-04-18,STORE-01,Gondola Shelf Set,Gondola,1,Reset Lead A,Priority,No Source Assigned
+2026-04-18,STORE-02,Pallet Display Frame,Pallet,1,Reset Lead B,Standard,Needs Restock
+2026-04-19,STORE-03,Endcap Header Panel,Endcap,3,Reset Lead C,Standard,Ready
+2026-04-19,STORE-04,Checkout Impulse Rack,Checkout,1,Reset Lead D,Standard,No Source Assigned
+2026-04-20,STORE-05,Gondola Shelf Set,Gondola,2,Reset Lead E,Standard,Not Yet Inspected
+2026-04-21,STORE-06,Pallet Skirt 40in,Pallet,1,Reset Lead F,Priority,No Source Assigned

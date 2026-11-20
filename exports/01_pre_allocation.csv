@@ -1,0 +1,16 @@
+reset_date,location_name,item_name,fixture_family,size,reset_lead,reset_type,quantity_needed,priority,status
+2026-04-17,STORE-05,Pallet Skirt 40in,Pallet,1,Reset Lead E,Promo Pallet Drop,3,Rush,Planned
+2026-04-16,STORE-04,Seasonal Display Tower,Seasonal,1,Reset Lead D,Seasonal Changeover,2,Priority,Planned
+2026-04-18,STORE-01,Gondola Shelf Set,Gondola,1,Reset Lead A,Gondola Remerchandise,2,Priority,Planned
+2026-04-21,STORE-06,Pallet Skirt 40in,Pallet,1,Reset Lead F,Promo Pallet Drop,3,Priority,Planned
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,1,Reset Lead A,Spring Endcap Reset,2,Standard,Confirmed
+2026-04-15,STORE-01,Endcap Base Deck,Endcap,1,Reset Lead A,Spring Endcap Reset,1,Standard,Confirmed
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,2,Reset Lead A,Spring Endcap Reset,2,Standard,Confirmed
+2026-04-15,STORE-02,Gondola Header Sign,Gondola,1,Reset Lead B,Aisle Gondola Reset,1,Standard,Confirmed
+2026-04-15,STORE-02,Gondola Shelf Set,Gondola,1,Reset Lead B,Aisle Gondola Reset,2,Standard,Confirmed
+2026-04-16,STORE-03,Checkout Impulse Rack,Checkout,1,Reset Lead C,Checkout Lane Reset,2,Standard,Planned
+2026-04-17,STORE-06,Endcap Header Panel,Endcap,1,Reset Lead F,Spring Endcap Reset,2,Standard,Planned
+2026-04-18,STORE-02,Pallet Display Frame,Pallet,1,Reset Lead B,Promo Pallet Drop,2,Standard,Planned
+2026-04-19,STORE-03,Endcap Header Panel,Endcap,3,Reset Lead C,Spring Endcap Reset,2,Standard,Planned
+2026-04-19,STORE-04,Checkout Impulse Rack,Checkout,1,Reset Lead D,Checkout Lane Reset,2,Standard,Planned
+2026-04-20,STORE-05,Gondola Shelf Set,Gondola,2,Reset Lead E,Aisle Gondola Reset,1,Standard,Planned

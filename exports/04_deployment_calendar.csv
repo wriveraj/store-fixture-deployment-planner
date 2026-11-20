@@ -1,0 +1,16 @@
+deployment_date,location_name,item_name,fixture_family,reset_lead,priority,buffer_gap_hrs,deployment_status,retrieval_date,buffer_status
+2026-04-15,STORE-01,Endcap Base Deck,Endcap,Reset Lead A,Standard,24,Confirmed,2026-04-09,Buffer OK
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,Reset Lead A,Standard,24,Confirmed,2026-04-08,Buffer OK
+2026-04-15,STORE-01,Endcap Header Panel,Endcap,Reset Lead A,Standard,24,Confirmed,2026-04-08,Buffer OK
+2026-04-15,STORE-02,Gondola Header Sign,Gondola,Reset Lead B,Standard,24,Confirmed,2026-04-10,Buffer OK
+2026-04-15,STORE-02,Gondola Shelf Set,Gondola,Reset Lead B,Standard,24,Confirmed,2026-04-10,Buffer OK
+2026-04-16,STORE-03,Checkout Impulse Rack,Checkout,Reset Lead C,Standard,24,Planned,2026-04-11,Buffer OK
+2026-04-16,STORE-04,Seasonal Display Tower,Seasonal,Reset Lead D,Priority,24,Planned,2026-04-12,Buffer OK
+2026-04-17,STORE-05,Pallet Skirt 40in,Pallet,Reset Lead E,Rush,24,Planned,2026-04-13,Buffer OK
+2026-04-17,STORE-06,Endcap Header Panel,Endcap,Reset Lead F,Standard,24,Planned,,No Retrieval Scheduled
+2026-04-18,STORE-01,Gondola Shelf Set,Gondola,Reset Lead A,Priority,24,Planned,,No Retrieval Scheduled
+2026-04-18,STORE-02,Pallet Display Frame,Pallet,Reset Lead B,Standard,24,Planned,2026-04-13,Buffer OK
+2026-04-19,STORE-03,Endcap Header Panel,Endcap,Reset Lead C,Standard,24,Planned,2026-04-14,Buffer OK
+2026-04-19,STORE-04,Checkout Impulse Rack,Checkout,Reset Lead D,Standard,24,Planned,,No Retrieval Scheduled
+2026-04-20,STORE-05,Gondola Shelf Set,Gondola,Reset Lead E,Standard,24,Planned,2026-04-08,Retrieval Overdue
+2026-04-21,STORE-06,Pallet Skirt 40in,Pallet,Reset Lead F,Priority,24,Planned,,No Retrieval Scheduled

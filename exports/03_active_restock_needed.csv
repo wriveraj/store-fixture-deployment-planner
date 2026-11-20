@@ -1,0 +1,7 @@
+location_name,item_name,fixture_family,size,flag_reason,quantity_needed,status,flagged_date
+STORE-03,Checkout Sign Frame,Checkout,1,Failed Inspection,1,Active Restock Needed,2026-11-16
+STORE-01,Endcap Base Deck,Endcap,1,Failed Inspection,1,Active Restock Needed,2026-11-16
+STORE-01,Gondola Shelf Set,Gondola,2,Consumed,1,Active Restock Needed,2026-11-16
+STORE-02,Gondola Header Sign,Gondola,2,Consumed,1,Active Restock Needed,2026-11-16
+STORE-02,Pallet Display Frame,Pallet,1,Failed Inspection,2,Active Restock Needed,2026-11-16
+STORE-04,Seasonal Topper Sign,Seasonal,1,Damaged,1,Active Restock Needed,2026-11-16
